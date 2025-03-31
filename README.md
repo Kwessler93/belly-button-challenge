@@ -28,3 +28,5 @@ y-axis, and marker size indicating abundance.
 
 - GitHub Pages for deployment
 
+Additional Resources: Xpert Learning Assistant, Chat GPT
+
