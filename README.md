@@ -18,6 +18,8 @@ y-axis, and marker size indicating abundance.
 
 - **Dynamic Updates**: The dashboard updates all visualizations when a new sample is selected.
 
+- **Successful Deployment**: This dashboard was deployed through GitHub Pages and can be accessed at https://kwessler93.github.io/belly-button-challenge/.
+
 ## Technologies Used
 
 - HTML, CSS, JavaScript
